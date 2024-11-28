@@ -1,0 +1,19 @@
+{
+  "name": "trendy-api",
+  "version": "0.0.1",
+  "description": "API server for TrendIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Godbell/trendy-api.git"
+  },
+  "author": "Kim Jongha, Kim Jihoon, Kim Min'geon",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Godbell/trendy-api/issues"
+  },
+  "homepage": "https://github.com/Godbell/trendy-api#readme"
+}
